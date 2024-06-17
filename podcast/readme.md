@@ -1,1 +1,1 @@
-### A podcast mad using ai
+### A podcast made using ai
